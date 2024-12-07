@@ -129,7 +129,7 @@ const Content = ({ blogsData, searchText, searchCondition, filterCriteria }) => 
             </div>
             <div>
               <p className="py-2">{blogData?.content}</p>
-              <div className="flex justify-around">
+              <div className="flex max-sm:flex-col justify-around">
                 <div>
                   <span className="px-1 font-bold">Published?</span>
                   <span className="px-1 font-semibold text-gray-200">

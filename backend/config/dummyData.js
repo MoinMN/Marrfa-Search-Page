@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import Blog from '../model/blog.model.js'; // Update the path as per your project structure
 
-const MONGO_URI = 'mongodb://localhost:27017/Marrfa'; // Replace with your MongoDB URI
+const MONGO_URI = 'mongodb+srv://crichit45:Moinnaik123@cluster0.8dtul.mongodb.net/Marrfa'; // Replace with your MongoDB URI
 
 // Predefined pool of data for variety
 const titles = [
