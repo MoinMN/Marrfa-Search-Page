@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:4518';
+const BASE_URL = 'https://marrfa-search-page-api.onrender.com';
 
 
 export default BASE_URL;
